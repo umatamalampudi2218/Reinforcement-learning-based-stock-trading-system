@@ -1,4 +1,4 @@
-#PROJECT TITLE
+# PROJECT TITLE
 # Reinforcement-learning-based-stock-trading-system
 
 ## Overview
